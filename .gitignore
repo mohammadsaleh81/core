@@ -1,0 +1,8 @@
+staticfiles
+venv
+.env
+cacheops.log
+db.sqlite3
+laptop.json
+mobile.json
+.idea

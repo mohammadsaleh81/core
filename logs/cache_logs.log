@@ -1,0 +1,673 @@
+INFO 2024-12-18 02:07:08,762 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:07:08,762 cache_backend Sony Xperia 1 VI
+INFO 2024-12-18 02:07:14,551 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:07:14,551 cache_backend Sony Xperia 1 VI
+INFO 2024-12-18 02:07:34,666 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:07:34,666 cache_backend 55
+INFO 2024-12-18 02:07:35,937 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:07:35,938 cache_backend 55
+INFO 2024-12-18 02:08:13,711 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:08:13,712 cache_backend 55
+INFO 2024-12-18 02:09:27,234 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:09:27,235 cache_backend LG
+INFO 2024-12-18 02:09:33,212 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:09:33,214 cache_backend LG
+INFO 2024-12-18 02:09:51,273 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:09:51,274 cache_backend 16
+INFO 2024-12-18 02:09:53,837 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:09:53,838 cache_backend 16
+INFO 2024-12-18 02:11:02,784 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:11:02,786 cache_backend 16
+INFO 2024-12-18 02:11:03,987 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:11:03,988 cache_backend 16
+INFO 2024-12-18 02:11:05,496 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:11:05,497 cache_backend 16
+INFO 2024-12-18 02:11:06,483 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:11:06,484 cache_backend 16
+INFO 2024-12-18 02:11:07,168 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:11:07,170 cache_backend 16
+INFO 2024-12-18 02:13:06,453 cache_backend Cache set for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:13:06,454 cache_backend 16
+INFO 2024-12-18 02:13:08,176 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:13:08,177 cache_backend 16
+INFO 2024-12-18 02:13:09,826 cache_backend Cache hit for key: query_cache:Product:v1:5ee568aafc328649b6637c853feeaed01ae73aeeff3f9135a2fd255e034dc162
+ERROR 2024-12-18 02:13:09,827 cache_backend 16
+INFO 2024-12-18 02:16:35,040 cache_backend Cache set for key: query_cache:Product:v1:5a7ea19164332ab0b379e16fcabc65871dafb9930f2a6a3ec12c8575fb45f3fb
+WARNING 2024-12-18 06:01:53,299 log Not Found: /favicon.ico
+WARNING 2024-12-18 06:01:53,299 basehttp "GET /favicon.ico HTTP/1.1" 404 17450
+WARNING 2024-12-18 06:01:54,691 log Not Found: /favicon.ico
+WARNING 2024-12-18 06:01:54,691 basehttp "GET /favicon.ico HTTP/1.1" 404 17450
+WARNING 2024-12-18 06:01:55,981 log Not Found: /favicon.ico
+WARNING 2024-12-18 06:01:55,981 basehttp "GET /favicon.ico HTTP/1.1" 404 17450
+WARNING 2024-12-18 06:08:30,044 log Not Found: /
+WARNING 2024-12-18 06:08:30,045 basehttp "GET / HTTP/1.1" 404 17390
+WARNING 2024-12-18 06:08:32,221 log Not Found: /
+WARNING 2024-12-18 06:08:32,221 basehttp "GET / HTTP/1.1" 404 17388
+WARNING 2024-12-18 06:38:15,577 log Not Found: /
+WARNING 2024-12-18 06:38:15,577 basehttp "GET / HTTP/1.1" 404 17390
+WARNING 2024-12-18 06:44:04,468 log Not Found: /
+WARNING 2024-12-18 06:44:04,468 basehttp "GET / HTTP/1.1" 404 17390
+ERROR 2024-12-18 06:44:52,309 log Internal Server Error: /admin/taxonomy/category/
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 239, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'configuration'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/treebeard/admin.py", line 49, in changelist_view
+    return super().changelist_view(request, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2034, in changelist_view
+    response = self.response_action(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1666, in response_action
+    response = func(self, request, queryset)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/actions.py", line 39, in delete_selected
+    ) = modeladmin.get_deleted_objects(queryset, request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2176, in get_deleted_objects
+    return get_deleted_objects(objs, request, self.admin_site)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 172, in get_deleted_objects
+    to_delete = collector.nested(format_callback)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 239, in nested
+    roots.extend(self._nested(root, seen, format_callback))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 225, in _nested
+    ret = [format_callback(obj)]
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 145, in format_callback
+    no_edit_link = "%s: %s" % (capfirst(opts.verbose_name), obj)
+                                                            ^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/product/models.py", line 88, in __str__
+    return f"{self.variant} - {self.configuration.key}: {self.value}"
+                               ^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 257, in __get__
+    rel_obj = self.get_object(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 220, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+taxonomy.models.CategoryConfiguration.DoesNotExist: CategoryConfiguration matching query does not exist.
+ERROR 2024-12-18 06:44:52,423 basehttp "POST /admin/taxonomy/category/ HTTP/1.1" 500 217921
+ERROR 2024-12-18 06:45:45,397 log Internal Server Error: /admin/taxonomy/category/
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 239, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'configuration'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/treebeard/admin.py", line 49, in changelist_view
+    return super().changelist_view(request, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2034, in changelist_view
+    response = self.response_action(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1666, in response_action
+    response = func(self, request, queryset)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/actions.py", line 39, in delete_selected
+    ) = modeladmin.get_deleted_objects(queryset, request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2176, in get_deleted_objects
+    return get_deleted_objects(objs, request, self.admin_site)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 172, in get_deleted_objects
+    to_delete = collector.nested(format_callback)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 239, in nested
+    roots.extend(self._nested(root, seen, format_callback))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 225, in _nested
+    ret = [format_callback(obj)]
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 145, in format_callback
+    no_edit_link = "%s: %s" % (capfirst(opts.verbose_name), obj)
+                                                            ^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/product/models.py", line 88, in __str__
+    return f"{self.variant} - {self.configuration.key}: {self.value}"
+                               ^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 257, in __get__
+    rel_obj = self.get_object(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 220, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+taxonomy.models.CategoryConfiguration.DoesNotExist: CategoryConfiguration matching query does not exist.
+ERROR 2024-12-18 06:45:45,462 basehttp "POST /admin/taxonomy/category/ HTTP/1.1" 500 217921
+ERROR 2024-12-18 06:46:27,618 log Internal Server Error: /admin/taxonomy/category/
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 239, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'configuration'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/treebeard/admin.py", line 49, in changelist_view
+    return super().changelist_view(request, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2034, in changelist_view
+    response = self.response_action(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1666, in response_action
+    response = func(self, request, queryset)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/actions.py", line 39, in delete_selected
+    ) = modeladmin.get_deleted_objects(queryset, request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2176, in get_deleted_objects
+    return get_deleted_objects(objs, request, self.admin_site)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 172, in get_deleted_objects
+    to_delete = collector.nested(format_callback)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 239, in nested
+    roots.extend(self._nested(root, seen, format_callback))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 223, in _nested
+    children.extend(self._nested(child, seen, format_callback))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 225, in _nested
+    ret = [format_callback(obj)]
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py", line 145, in format_callback
+    no_edit_link = "%s: %s" % (capfirst(opts.verbose_name), obj)
+                                                            ^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/product/models.py", line 88, in __str__
+    return f"{self.variant} - {self.configuration}: {self.value}"
+                               ^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 257, in __get__
+    rel_obj = self.get_object(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 220, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+taxonomy.models.CategoryConfiguration.DoesNotExist: CategoryConfiguration matching query does not exist.
+ERROR 2024-12-18 06:46:27,754 basehttp "POST /admin/taxonomy/category/ HTTP/1.1" 500 217913
+ERROR 2024-12-18 06:47:17,134 log Internal Server Error: /admin/product/product/103/change/
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1073, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1050, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/utils.py", line 79, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/boundfield.py", line 108, in as_widget
+    return widget.render(
+           ^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/widgets.py", line 279, in render
+    return self._render(self.template_name, context, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/widgets.py", line 284, in _render
+    return mark_safe(renderer.render(template_name, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/renderers.py", line 28, in render
+    template = self.get_template(template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/renderers.py", line 34, in get_template
+    return self.engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 81, in get_template
+    reraise(exc, self)
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+ERROR 2024-12-18 06:47:17,293 basehttp "GET /admin/product/product/103/change/ HTTP/1.1" 500 651911
+ERROR 2024-12-18 06:47:24,030 log Internal Server Error: /admin/product/product/56/change/
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1073, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/base.py", line 1050, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/utils.py", line 79, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/boundfield.py", line 108, in as_widget
+    return widget.render(
+           ^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/widgets.py", line 279, in render
+    return self._render(self.template_name, context, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/widgets.py", line 284, in _render
+    return mark_safe(renderer.render(template_name, context))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/renderers.py", line 28, in render
+    template = self.get_template(template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/forms/renderers.py", line 34, in get_template
+    return self.engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 81, in get_template
+    reraise(exc, self)
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "/home/mohammad/projects/mobo/mobo-v3/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: unfold/widgets/clearable_file_input.html
+ERROR 2024-12-18 06:47:24,166 basehttp "GET /admin/product/product/56/change/ HTTP/1.1" 500 651898
